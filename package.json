@@ -1,5 +1,5 @@
 {
-  "name": "auth-sdk",
+  "name": "@ernst1202/auth-sdk",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
